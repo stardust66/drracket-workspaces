@@ -12,7 +12,7 @@ don't think it got made since.
 
 ### Install
 ```
-raco pkg install https://github.com/stardust66/drracket-workspaces.git
+raco pkg install drracket-workspaces
 ```
 
 ### Features Implemented
