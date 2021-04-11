@@ -14,7 +14,7 @@
 
     (inherit open-in-new-tab
              get-tabs)
-    
+
     (define/override (file-menu:between-open-and-revert file-menu)
       (super file-menu:between-open-and-revert file-menu)
       (set! workspace-menu
